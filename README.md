@@ -22,6 +22,17 @@ for automation. No third-party runtime dependencies.
 [CI runs](https://github.com/G-B-H/meninx-proofkit/actions/workflows/ci.yml) ·
 [Report a problem](https://github.com/G-B-H/meninx-proofkit/issues)
 
+## Engineering notes
+
+Design decisions from my MENINX work, written as public summaries of private
+projects. Each note separates documented behavior from proposed validation.
+
+| Problem | Design note |
+| --- | --- |
+| Recover a service without a restart storm or killing an unrelated process. | [A bounded service supervisor](engineering/runtime.md) |
+| Turn AI-generated changes into reviewable deliveries. | [A controlled AI delivery workflow](engineering/ai-delivery.md) |
+| Turn saved resources into informed technical decisions. | [A resource catalogue for decisions](engineering/resource-catalogue.md) |
+
 ## Toolkit
 
 Docker · Kubernetes · Terraform · GitHub Actions · Python · TypeScript
