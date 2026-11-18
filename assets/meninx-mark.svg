@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 180" role="img" aria-labelledby="title desc">
+  <title id="title">MENINX</title>
+  <desc id="desc">Architecture, Automation, Delivery</desc>
+  <rect width="880" height="180" fill="#11110f"/>
+  <path d="M48 45h56M48 45v90M48 135h56" fill="none" stroke="#c6a86b" stroke-width="2"/>
+  <text x="132" y="91" fill="#f3f0e8" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="600" letter-spacing="7">MENINX</text>
+  <text x="134" y="126" fill="#c6a86b" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">ARCHITECTURE  /  AUTOMATION  /  DELIVERY</text>
+</svg>
